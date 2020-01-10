@@ -1,7 +1,16 @@
 Hello new CR1
 
+
 Change1 -> added for rebase test ....
 
 File2 updated for normal push to remote
 change2 -> to added by someone on remote repository
-Change in remote side for conflict change
+
+
+Change 1 - added for rebase test ....
+
+change 2 - File2 updated for normal push to remote
+change to added by someone on remote repository
+
+
+Change 3 - rebase Conflict Changes
