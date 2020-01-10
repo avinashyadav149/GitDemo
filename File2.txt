@@ -1,3 +1,5 @@
 Hello new CR1
 
 Change added for rebase test ....
+
+File2 updated for normal push to remote
