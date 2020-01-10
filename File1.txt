@@ -6,3 +6,4 @@ Feature 1 login
 Feature 2 LoggedOut
 
 bug1 - Fixed
+bug2 - Fixed
